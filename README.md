@@ -33,10 +33,10 @@ Make sure you have the following installed:
 You can check Python version using:
 
 ```bash
-python --version
+python3 --version
 ```
 
-Install Python from https://www.python.org/downloads/ if needed
+Install Python from https://www.python.org/downloads/ if needed.
 
 ---
 
