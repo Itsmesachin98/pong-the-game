@@ -36,7 +36,7 @@ You can check Python version using:
 python --version
 ```
 
-Install Python from https://www.python.org/downloads/ if needed.
+Install Python from https://www.python.org/downloads/ if needed
 
 ---
 
